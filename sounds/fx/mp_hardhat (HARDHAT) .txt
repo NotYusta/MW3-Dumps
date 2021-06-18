@@ -1,0 +1,87 @@
+LOAD FX mp_hardhat (HARDHAT)
+
+DUST:
+loadfx( "dust/dust_cloud_mp_afghan" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/room_dust_200_z150_mp" );
+loadfx( "dust/dust_cloud_mp_hardhat" );
+loadfx( "dust/dust_wind_fast_no_paper" );
+loadfx( "dust/dust_spiral_runner_small" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/room_dust_200_blend_mp_vacant" );
+loadfx( "dust/falling_dirt_light_1_runner_bravo" );
+loadfx( "dust/sand_spray_cliff_oriented_runner_hardhat" );
+loadfx( "dust/sand_spray_detail_oriented_runner_hardhat" );
+
+EXPLOTIONS:
+loadfx( "explosions/spark_fall_runner_mp" );
+loadfx( "explosions/vehicle_explosion_btr80" );
+loadfx( "explosions/large_vehicle_explosion_ir" );
+loadfx( "explosions/building_missilehit_runner" );
+loadfx( "explosions/generator_spark_runner_loop_interchange" );
+loadfx( "explosions/electrical_transformer_spark_runner_loop" );
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/banner_fire" );
+loadfx( "fire/fire_wall_50" );
+loadfx( "fire/wall_fire_mp" );
+loadfx( "fire/firelp_small" );
+loadfx( "fire/firelp_med_pm" );
+loadfx( "fire/car_fire_mp_far" );
+loadfx( "fire/after_math_embers" );
+loadfx( "fire/window_fire_large" );
+loadfx( "fire/firelp_med_pm_cheap" );
+loadfx( "fire/firelp_small_cheap_mp" );
+loadfx( "fire/building_hole_embers_mp" );
+loadfx( "fire/fire_fallingdebris_cheap_mp" );
+loadfx( "fire/fire_falling_runner_point_infrequent_mp" );
+
+MISC:
+loadfx( "misc/moth_runner" );
+loadfx( "misc/falling_ash_mp" );
+loadfx( "misc/jet_flyby_runner" );
+loadfx( "misc/insects_firefly_a" );
+loadfx( "misc/flocking_birds_mp" );
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/light_glow_white_lamp" );
+loadfx( "misc/antiair_runner_cloudy" );
+loadfx( "misc/insects_carcass_runner" );
+loadfx( "misc/insects_light_invasion" );
+loadfx( "misc/insect_trail_runner_icbm" );
+loadfx( "misc/insects_light_hunted_a_mp" );
+loadfx( "misc/insects_dragonfly_runner_a" );
+loadfx( "misc/building_hole_paper_fall_mp" );
+
+SMOKE:
+loadfx( "smoke/steam_roof_ac" );
+loadfx( "smoke/room_smoke_200" );
+loadfx( "smoke/room_smoke_400" );
+loadfx( "smoke/chimney_smoke_mp" );
+loadfx( "smoke/bg_smoke_plume_mp" );
+loadfx( "smoke/white_battle_smoke" );
+loadfx( "smoke/smoke_plume_grey_01" );
+loadfx( "smoke/smoke_plume_grey_02" );
+loadfx( "smoke/bootleg_alley_steam" );
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/large_battle_smoke_mp" );
+loadfx( "smoke/thin_black_smoke_m_mp" );
+loadfx( "smoke/ceiling_smoke_seatown" );
+loadfx( "smoke/mist_drifting_lambeth" );
+loadfx( "smoke/chimney_smoke_large_mp" );
+loadfx( "smoke/building_hole_smoke_mp" );
+loadfx( "smoke/thin_black_smoke_s_fast" );
+loadfx( "smoke/steam_large_vent_rooftop" );
+loadfx( "smoke/mist_drifting_sky_lambeth" );
+loadfx( "smoke/battlefield_smokebank_s_cheap" );
+loadfx( "smoke/steam_jet_loop_cheap_mp_carbon" );
+loadfx( "smoke/mist_drifting_groundfog_lambeth" );
+loadfx( "smoke/battlefield_smokebank_S_warm_dense" );
+loadfx( "smoke/battlefield_smokebank_s_cheap_mp_carbon" );
+loadfx( "smoke/battlefield_smokebank_s_cheap_heavy_mp" );
+
+WEATHER:
+loadfx( "weather/ash_prague" );
+loadfx( "weather/embers_prague_light" );
+loadfx( "weather/ceiling_smoke_seatown" );

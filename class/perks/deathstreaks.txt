@@ -1,0 +1,8 @@
+specialty_juiced
+specialty_grenadepulldeath
+specialty_finalstand
+specialty_revenge
+specialty_stopping_power
+specialty_c4death
+specialty_uav
+specialty_null

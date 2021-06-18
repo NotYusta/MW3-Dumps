@@ -1,0 +1,46 @@
+LOAD FX mp_underground (UNDERGROUND)
+
+DUST:
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/room_dust_200_z150_mp" );	
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/room_dust_200_blend_mp_vacant" );	
+
+EXPLOTIONS:
+loadfx( "explosions/spark_fall_runner_mp" );
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/firelp_small_cheap_mp" );
+loadfx( "fire/building_hole_embers_mp" );
+loadfx( "fire/fire_falling_runner_point" );
+
+MISC:
+loadfx( "misc/falling_ash_mp" );
+loadfx( "misc/oil_drip_puddle" );
+loadfx( "misc/light_glow_white" );
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/leaves_spiral_runner" );
+loadfx( "misc/insects_carcass_flies" );
+loadfx( "misc/antiair_runner_cloudy" );	
+loadfx( "misc/insects_light_hunted_a_mp" );
+loadfx( "misc/building_hole_paper_fall_mp" );
+loadfx( "misc/building_hole_paper_fall_mp" );
+loadfx( "misc/leaves_fall_gentlewind_green" );
+
+SMOKE:
+loadfx( "smoke/steam_manhole" );
+loadfx( "smoke/chimney_smoke_mp" );
+loadfx( "smoke/bootleg_alley_steam" );
+loadfx( "smoke/large_battle_smoke_mp" );
+loadfx( "smoke/building_hole_smoke_mp" );
+loadfx( "smoke/chimney_smoke_large_mp" );
+loadfx( "smoke/thin_black_smoke_s_fast" );
+loadfx( "smoke/battlefield_smokebank_S_warm_dense" );	
+
+WEATHER:
+loadfx( "weather/ground_fog_mp" );
+loadfx( "weather/embers_prague_light" );
+loadfx( "weather/ceiling_smoke_seatown" );

@@ -1,0 +1,7 @@
+frag_grenade_mp
+semtex_mp
+throwingknife_mp
+claymore_mp
+c4_mp
+bouncingbetty_mp
+specialty_portable_radar

@@ -1,0 +1,41 @@
+LOAD FX mp_radar (OUTPOST)
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/firelp_cheap_mp" );
+loadfx( "fire/heat_lamp_distortion" );
+
+MISC:
+loadfx( "misc/light_glow_white_lamp" );
+
+SMOKE:
+loadfx( "smoke/room_smoke_200" );
+
+SNOW:
+loadfx( "snow/radar_windy_snow" );
+loadfx( "snow/tree_snow_fallen" );
+loadfx( "snow/snow_spiral_runner" );
+loadfx( "snow/tree_snow_dump_fast" );
+loadfx( "snow/blowing_ground_snow" );
+loadfx( "snow/snow_blizzard_radar" );
+loadfx( "snow/snow_clifftop_runner" );
+loadfx( "snow/tree_snow_dump_runner" );
+loadfx( "snow/tree_snow_fallen_heavy" );
+loadfx( "snow/tree_snow_fallen_small" );
+loadfx( "snow/snow_gust_runner_radar" );
+loadfx( "snow/snow_vortex_runner_cheap" );
+loadfx( "snow/radar_windy_snow_no_mist" );
+loadfx( "snow/tree_snow_dump_fast_small" );
+loadfx( "snow/snow_blowoff_ledge_runner" );
+loadfx( "snow/radar_windy_snow_small_area" );
+loadfx( "snow/tree_snow_dump_radar_runner" );
+loadfx( "snow/snow_spray_large_oriented_runner" );
+loadfx( "snow/snow_spray_detail_oriented_runner" );
+loadfx( "snow/snow_spray_detail_oriented_large_runner" );
+loadfx( "snow/snow_spray_detail_oriented_runner_0x400" );
+loadfx( "snow/snow_spray_large_oriented_radar_od_runner" );
+loadfx( "snow/snow_spray_detail_oriented_runner_400x400" );
+loadfx( "snow/snow_spray_detail_contingency_runner_0x400" );
+
+WATER:
+loadfx( "water/water_drips_fat_slow_speed" );

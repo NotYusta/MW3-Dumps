@@ -1,0 +1,11 @@
+specialty_bulletpenetration
+specialty_marksman
+specialty_bling
+specialty_sharp_focus
+specialty_armorpiercing
+specialty_holdbreathwhileads
+specialty_longerrange
+specialty_fastermelee
+specialty_reducedsway
+specialty_lightweight
+specialty_moredamage

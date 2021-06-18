@@ -1,0 +1,12 @@
+uav_support
+counter_uav
+deployable_vest
+airdrop_trap
+sam_turret
+remote_uav
+triple_uav
+remote_mg_turret
+stealth_airstrike
+emp
+airdrop_juggernaut_recon
+escort_airdrop

@@ -1,0 +1,16 @@
+specialty_longersprint_ks
+specialty_fastreload_ks
+specialty_scavenger_ks
+specialty_blindeye_ks
+specialty_paint_ks
+specialty_hardline_ks
+specialty_coldblooded_ks
+specialty_quickdraw_ks
+specialty_assists_ks
+_specialty_blastshield_ks
+specialty_detectexplosive_ks
+specialty_autospot_ks
+specialty_bulletaccuracy_ks
+specialty_quieter_ks
+specialty_stalker_ks
+all_perks_bonus

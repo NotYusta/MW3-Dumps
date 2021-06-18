@@ -1,0 +1,15 @@
+iw5_beretta393
+iw5_beretta393akimbo
+m79_mp
+mortar_remote_zoom_mp
+mortar_remote_mp
+manned_minigun_turret
+manned_littlebird_sniper
+manned_littlebird_minigun
+manned_gl_turret
+portable_radar
+remote_mortar_missile
+remote_turret_mp
+defaultweapon_mp
+scrambler
+uav_remote_mp

@@ -1,0 +1,12 @@
+LOAD FX mp_terminal_cls (TERMINAL)
+
+DUST:
+loadfx( "dust/light_shaft_motes_airport" );
+
+loadfx( "misc/moth_runner" );
+
+SMOKE:
+loadfx( "smoke/room_smoke_200" );
+loadfx( "smoke/room_smoke_400" );
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/ground_smoke1200x1200" );

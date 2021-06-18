@@ -1,0 +1,15 @@
+uav
+airdrop_assault
+predator_missile
+ims
+airdrop_sentry_minigun
+precision_airstrike
+helicopter
+littlebird_flock
+littlebird_support
+remote_mortar
+airdrop_remote_tank
+helicopter_flares
+ac130
+airdrop_juggernaut
+osprey_gunner

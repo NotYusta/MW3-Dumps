@@ -1,0 +1,38 @@
+LOAD FX mp_dome (DOME)
+
+DUST:
+loadfx( "dust/ash_spiral_runner" );
+loadfx( "dust/room_dust_200_blend" );	
+loadfx( "dust/room_dust_100_blend" );	
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/light_shaft_dust_large" );	
+loadfx( "dust/dust_ceiling_ash_large" );
+loadfx( "dust/room_dust_200_blend_mp_vacant" );	
+loadfx( "dust/sand_spray_detail_runner_0x400" );
+loadfx( "dust/sand_spray_detail_runner_400x400" );
+loadfx( "dust/sand_spray_cliff_oriented_runner" );
+loadfx( "dust/dust_ceiling_ash_large_mp_vacant" );
+loadfx( "dust/light_shaft_dust_large_mp_vacant" );	
+loadfx( "dust/light_shaft_dust_large_mp_vacant_sidewall" );
+loadfx( "dust/sand_spray_detail_oriented_runner_mp_dome" );
+
+FIRE:
+loadfx( "fire/firelp_small_pm" );
+loadfx( "fire/firelp_med_pm_nodistort" );
+
+MISC:
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/leaves_spiral_runner" );
+loadfx( "misc/falling_brick_runner" );
+loadfx( "misc/falling_brick_runner_line_400" );
+
+SMOKE:
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/battlefield_smokebank_S" );
+
+
+WEATHER:
+loadfx( "weather/sand_storm_mp_dome_exterior" );
+loadfx( "weather/sand_storm_mp_dome_interior" );
+loadfx( "weather/sand_storm_mp_dome_interior_outdoor_only" );

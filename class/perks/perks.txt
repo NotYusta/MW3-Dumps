@@ -1,0 +1,16 @@
+specialty_longersprint
+specialty_fastreload
+specialty_scavenger
+specialty_blindeye
+specialty_paint
+specialty_hardline
+specialty_coldblooded
+specialty_quickdraw
+specialty_twoprimaries
+specialty_assists
+specialty_blastshield
+specialty_detectexplosive
+specialty_autospot
+specialty_bulletaccuracy
+specialty_quieter
+specialty_stalker

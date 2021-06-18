@@ -1,0 +1,8 @@
+flash_grenade_mp
+concussion_grenade_mp
+smoke_grenade_mp
+emp_grenade_mp
+trophy_mp
+specialty_tacticalinsertion
+specialty_scrambler
+specialty_portable_radar

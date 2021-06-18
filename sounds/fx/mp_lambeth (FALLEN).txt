@@ -1,0 +1,62 @@
+LOAD FX mp_lambeth (FALLEN)
+
+DUST:
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_fast_no_paper" );
+loadfx( "dust/dust_wind_fast_no_paper_airiel" );
+loadfx( "dust/falling_dirt_infrequent_runner" );
+
+EXPLOSIONS:
+loadfx( "explosions/electrical_transformer_spark_runner_tight" );
+loadfx( "explosions/electrical_transformer_falling_fire_runner" );
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/wall_fire_mp" );
+loadfx( "fire/firelp_small_cheap_mp" );
+loadfx( "fire/firelp_med_cheap_dist_mp" );
+loadfx( "fire/firelp_small_cheap_dist_mp" );
+loadfx( "fire/fire_fallingdebris_cheap_mp" );
+loadfx( "fire/fire_falling_runner_point_infrequent_mp" );	
+
+MISC:
+loadfx( "misc/falling_ash_mp" );
+loadfx( "misc/insects_firefly_a" );
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/leaves_spiral_runner" );
+loadfx( "misc/generic_fallingdebris" );
+loadfx( "misc/insects_light_complex" );
+loadfx( "misc/insects_carcass_runner" );
+loadfx( "misc/leaves_fall_gentlewind" );
+loadfx( "misc/insect_trail_runner_icbm" );
+loadfx( "misc/leaves_fall_gentlewind_far" );
+loadfx( "misc/insects_dragonfly_runner_a" );
+loadfx( "misc/falling_brick_runner_line_75" );
+loadfx( "misc/falling_brick_runner_line_100" );
+loadfx( "misc/falling_brick_runner_line_200" );
+loadfx( "misc/falling_brick_runner_line_300" );
+loadfx( "misc/falling_brick_runner_line_400" );
+loadfx( "misc/falling_brick_runner_line_600" );
+loadfx( "misc/leaves_fall_gentlewind_lambeth" );
+
+SMOKE:
+loadfx( "smoke/steam_manhole" );
+loadfx( "smoke/steam_roof_ac" );
+loadfx( "smoke/room_smoke_200" );
+loadfx( "smoke/room_smoke_400" );
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/thin_black_smoke_m_mp" );
+loadfx( "smoke/large_battle_smoke_mp" );
+loadfx( "smoke/mist_drifting_lambeth" );
+loadfx( "smoke/steam_large_vent_rooftop" );
+loadfx( "smoke/mist_drifting_sky_lambeth" );
+loadfx( "smoke/steam_jet_loop_cheap_mp_carbon" );
+loadfx( "smoke/mist_drifting_groundfog_lambeth" );
+loadfx( "smoke/battlefield_smokebank_s_cheap_mp_carbon" );
+loadfx( "smoke/battlefield_smokebank_s_cheap_heavy_mp" );
+
+WATER:
+loadfx( "water/water_drips_fat_fast_singlestream_mp_carbon" );
+
+WEATHER:
+loadfx( "weather/ceiling_smoke" );

@@ -1,0 +1,29 @@
+LOAD FX mp_mogadishu (BAAKARA)
+
+DUST:
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/dust_wind_fast_no_paper" );
+loadfx( "dust/falling_dirt_light_1_runner" );
+loadfx( "dust/falling_dirt_light_2_runner" );
+
+EXPLOTIONS:
+loadfx( "explosions/electrical_transformer_spark_runner_loop" );
+
+FIRE:
+loadfx( "fire/firelp_med_pm_cheap" );
+loadfx( "fire/firelp_small_pm_a_cheap" );
+
+MISC:
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/insects_carcass_runner" );
+loadfx( "misc/falling_brick_runner_line_400" );
+
+SMOKE:
+loadfx( "smoke/room_smoke_200" );
+loadfx( "smoke/room_smoke_400" );
+loadfx( "smoke/smoke_plume_grey_01" );
+loadfx( "smoke/smoke_plume_grey_02" );
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/thick_black_smoke_mp" );
+loadfx( "smoke/battlefield_smokebank_s_cheap" );

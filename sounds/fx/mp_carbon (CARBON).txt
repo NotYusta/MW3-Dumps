@@ -1,0 +1,53 @@
+LOAD FX mp_carbon (CARBON)
+
+DUST:
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_fast_no_paper" );
+loadfx( "dust/falling_dirt_light_1_runner" );
+loadfx( "dust/falling_dirt_light_2_runner" );
+loadfx( "dust/dust_wind_fast_no_paper_airiel" );
+
+EXPLOTIONS:
+loadfx( "explosions/electrical_transformer_spark_runner_loop" );
+loadfx( "explosions/electrical_transformer_falling_fire_runner" );
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/wall_fire_mp" );
+loadfx( "fire/flame_refinery_far" );
+loadfx( "fire/firelp_med_pm_cheap" );
+loadfx( "fire/firelp_small_cheap_mp" );
+loadfx( "fire/firelp_small_pm_a_cheap" );
+loadfx( "fire/flame_refinery_small_far" );
+loadfx( "fire/flame_refinery_small_far_2" );
+loadfx( "fire/flame_refinery_small_far_3" );
+loadfx( "fire/fire_fallingdebris_cheap_mp" );
+loadfx( "fire/fire_falling_runner_point_infrequent_mp" );
+
+MISC:
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/insects_carcass_runner" );
+loadfx( "misc/falling_brick_runner_line_400" );
+
+SMOKE:
+loadfx( "smoke/smoke_plume01" );
+loadfx( "smoke/smoke_plume02" );
+loadfx( "smoke/steam_manhole" );
+loadfx( "smoke/steam_roof_ac" );
+loadfx( "smoke/room_smoke_200" );
+loadfx( "smoke/room_smoke_400" );
+loadfx( "smoke/steam_cs_mp_carbon" );
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/bootleg_alley_steam" );
+loadfx( "smoke/smoke_plume_grey_01" );
+loadfx( "smoke/smoke_plume_grey_02" );
+loadfx( "smoke/smoke_plume_white_01" );
+loadfx( "smoke/smoke_plume_white_02" );	
+loadfx( "smoke/thick_black_smoke_mp" );
+loadfx( "smoke/steam_large_vent_rooftop" );
+loadfx( "smoke/steam_jet_loop_cheap_mp_carbon" );
+loadfx( "smoke/battlefield_smokebank_s_cheap_mp_carbon" );
+
+WATER:
+loadfx( "water/water_drips_fat_fast_singlestream_mp_carbon" );

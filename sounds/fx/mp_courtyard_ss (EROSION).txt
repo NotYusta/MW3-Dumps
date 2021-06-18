@@ -1,0 +1,13 @@
+LOAD FX mp_courtyard_ss (EROSION)
+
+MAPS:
+loadfx( "maps/mp_courtyard_ss/mp_ct_volcano" );
+loadfx( "maps/mp_courtyard_ss/mp_ct_godrays_a" );
+loadfx( "maps/mp_courtyard_ss/mp_ct_godrays_b" );
+loadfx( "maps/mp_courtyard_ss/mp_ct_godrays_c" );
+loadfx( "maps/mp_courtyard_ss/mp_ct_ash" );
+loadfx( "maps/mp_courtyard_ss/mp_ct_ambdust" );
+loadfx( "maps/mp_courtyard_ss/mp_ct_insects" );
+
+MISC:
+loadfx( "misc/insects_dragonfly_runner_a" );

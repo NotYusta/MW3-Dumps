@@ -1,0 +1,39 @@
+LOAD FX mp_alpha (LOCKDOWN)
+
+DUST:
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/room_dust_200_blend_mp_vacant" );
+
+EXPLOSIONS:
+loadfx( "explosions/spark_fall_runner_mp" );
+
+FIRE:
+loadfx( "fire/banner_fire" );
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/firelp_small" );
+loadfx( "fire/wall_fire_mp" );
+loadfx( "fire/fire_wall_50" );
+loadfx( "fire/firelp_med_pm" );
+loadfx( "fire/after_math_embers" );
+loadfx( "fire/firelp_med_pm_cheap" );
+loadfx( "fire/firelp_small_cheap_mp" );
+
+MISC:
+loadfx( "misc/falling_ash_mp" );
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/insects_carcass_flies" );	
+loadfx( "misc/light_glow_white_lamp" );
+
+SMOKE:
+loadfx( "smoke/steam_manhole" );
+loadfx( "smoke/bg_smoke_plume" );
+loadfx( "smoke/white_battle_smoke" );
+loadfx( "smoke/thin_black_smoke_s_fast" );
+loadfx( "smoke/battlefield_smokebank_S_warm_dense" );
+
+WEATHER:
+loadfx( "weather/ash_prague" );
+loadfx( "weather/embers_prague_light" );

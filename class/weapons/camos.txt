@@ -1,0 +1,14 @@
+none
+classic
+snow
+multi
+d_urban
+hex
+choco
+marine
+snake
+winter
+blue
+red
+autumn
+gold

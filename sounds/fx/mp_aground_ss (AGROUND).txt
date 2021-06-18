@@ -1,0 +1,30 @@
+LOAD FX mp_aground_ss (AGROUND)
+
+DUST:
+loadfx("dust/falling_dirt_infrequent_runner_mp");
+
+LIGHTS:
+loadfx("lights/tinhat_beam");	
+loadfx("lights/godrays_aground");	
+loadfx("lights/godrays_aground_b");	
+loadfx("lights/bulb_single_orange");
+
+MAPS:
+loadfx("maps/mp_crosswalk_ss/mp_cw_insects");	
+loadfx("maps/mp_overwatch/light_dust_motes_fog");
+
+MISC:
+loadfx("misc/drips_slow");	
+loadfx("misc/birds_circle_main" );	
+loadfx("misc/paper_blowing_Trash_r");
+
+WATER:
+loadfx("water/mist_light");	
+loadfx("water/water_shore_splash_r");
+loadfx("water/water_shore_splash_xlg_r");
+loadfx("water/water_wave_splash2_runner");	
+loadfx("water/water_wave_splash_xsm_runner");	
+
+WEATHER:
+loadfx("weather/fog_bog_c");
+loadfx("weather/fog_aground");	

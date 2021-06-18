@@ -1,0 +1,32 @@
+LOAD FX mp_paris (RESISTANCE)
+
+DUST:
+loadfx( "dust/room_dust_200_z150_mp" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/falling_dirt_light_1_runner_bravo" );
+
+FIRE:
+loadfx( "fire/firelp_small" );
+loadfx( "fire/firelp_med_pm" );
+loadfx( "fire/firelp_med_pm_cheap" );
+loadfx( "fire/firelp_small_cheap_mp" );
+loadfx( "fire/building_hole_embers_mp" );
+
+MISC:
+loadfx( "misc/falling_ash_mp" );
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/leaves_spiral_runner" );
+loadfx( "misc/antiair_runner_cloudy" );
+loadfx( "misc/insects_carcass_runner" );
+loadfx( "misc/insect_trail_runner_icbm" );
+loadfx( "misc/insects_light_hunted_a_mp" );
+loadfx( "misc/leaves_fall_gentlewind_lambeth" );
+
+SMOKE:
+loadfx( "smoke/chimney_smoke_mp" );
+loadfx( "smoke/chimney_smoke_large_mp" );
+
+WEATHER:
+loadfx( "weather/ash_prague" );
+loadfx( "weather/embers_prague_light" );
+loadfx( "weather/ceiling_smoke_seatown" );

@@ -1,0 +1,56 @@
+LOAD FX mp_seatown (SEATOWN)
+
+DUST:
+loadfx( "dust/ash_spiral_runner" );
+loadfx( "dust/room_dust_200_blend" );	
+loadfx( "dust/room_dust_100_blend" );
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/dust_ceiling_ash_large" );
+loadfx( "dust/light_shaft_dust_large" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/room_dust_200_blend_mp_seatown" );
+loadfx( "dust/sand_spray_detail_runner_0x400" );
+loadfx( "dust/sand_spray_detail_runner_400x400" );
+loadfx( "dust/sand_spray_cliff_oriented_runner" );
+loadfx( "dust/dust_ceiling_ash_large_mp_vacant" );
+loadfx( "dust/light_shaft_dust_large_mp_vacant" );
+loadfx( "dust/room_dust_200_blend_seatown_wind_fast" );	
+loadfx( "dust/sand_spray_detail_oriented_runner_mp_dome" );
+loadfx( "dust/light_shaft_dust_large_mp_vacant_sidewall" );
+
+EXPLOTIONS:
+loadfx( "explosions/spark_fall_runner_mp" );
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/firelp_small_pm" );
+loadfx( "fire/firelp_small_cheap_mp" );
+loadfx( "fire/firelp_med_pm_nodistort" );
+loadfx( "fire/fire_falling_runner_point" );
+
+MISC:
+loadfx( "misc/palm_leaves" );
+loadfx( "misc/flocking_birds_mp" );
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/leaves_spiral_runner" );
+loadfx( "misc/falling_brick_runner" );
+loadfx( "misc/insects_carcass_flies" );
+loadfx( "misc/insects_light_hunted_a_mp" );
+loadfx( "misc/falling_brick_runner_line_400" );
+
+SMOKE:
+loadfx( "smoke/bg_smoke_plume" );
+loadfx( "smoke/hallway_smoke_light" );
+loadfx( "smoke/battlefield_smokebank_S_warm" );
+
+WATER:
+loadfx( "water/sea_mist" );
+loadfx( "water/seatown_pillar_mist" );
+loadfx( "water/seatown_lookout_splash_runner" );
+
+WEATHER:
+loadfx( "weather/ceiling_smoke_seatown" );
+loadfx( "weather/sand_storm_mp_dome_exterior" );
+loadfx( "weather/sand_storm_mp_dome_interior" );
+loadfx( "weather/sand_storm_mp_dome_interior_outdoor_only" );

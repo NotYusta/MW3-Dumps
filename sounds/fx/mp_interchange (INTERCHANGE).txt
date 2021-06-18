@@ -1,0 +1,34 @@
+LOAD FX mp_interchange (INTERCHANGE)
+
+DUST:
+loadfx( "dust/dust_wind_fast_paper" );
+loadfx( "dust/dust_wind_slow_paper" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/falling_dirt_frequent_runner" );
+loadfx( "dust/room_dust_200_blend_mp_vacant_light" );
+
+EXPLOSIONS:
+loadfx( "explosions/spark_fall_runner_mp" );
+
+FIRE:
+loadfx( "fire/car_fire_mp" );
+loadfx( "fire/firelp_small" );
+loadfx( "fire/firelp_med_pm" );
+loadfx( "fire/firelp_med_pm_cheap" );
+loadfx( "fire/firelp_small_cheap_mp" );
+
+MISC:
+loadfx( "misc/falling_ash_mp" );	
+loadfx( "misc/flocking_birds_mp" );	
+loadfx( "misc/trash_spiral_runner" );
+loadfx( "misc/insects_carcass_flies" );
+loadfx( "misc/insects_light_hunted_a_mp" );
+
+SMOKE:
+loadfx( "smoke/steam_manhole" );
+loadfx( "smoke/bg_smoke_plume" );
+loadfx( "smoke/thin_black_smoke_s_fast" );
+loadfx( "smoke/battlefield_smokebank_S_warm_dense" );
+
+WEATHER:
+loadfx( "weather/embers_prague_light" );
