@@ -7,7 +7,7 @@ specialty_hardline_ks
 specialty_coldblooded_ks
 specialty_quickdraw_ks
 specialty_assists_ks
-_specialty_blastshield_ks
+specialty_blastshield_ks
 specialty_detectexplosive_ks
 specialty_autospot_ks
 specialty_bulletaccuracy_ks
